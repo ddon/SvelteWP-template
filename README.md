@@ -10,6 +10,9 @@ On WordPress side you will need to install WordPress [SvelteWP Plugin](https://g
 ## Installation
 
 ```bash
+degit ddon/SvelteWP-template my-project.com
+cd my-project.com
+
 npm install
 ```
 
